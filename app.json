@@ -17,7 +17,7 @@
      },
     "WSPATH": {
        "description": "WSPATH",
-       "value": ""
+       "value": "aaa"
      }
   },
   "website": "https://github.com/wangyi2005/v2ray-heroku",

@@ -16,3 +16,4 @@ echo -e -n {\"path\": \"/ >> config.json
 echo -e -n "$WSPATH" >> config.json
 echo -e -n "$CONFIG_JSON5" >> config.json
 cat config.json
+./v2ray

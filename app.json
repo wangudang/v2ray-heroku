@@ -10,6 +10,14 @@
     "UUID": {
        "description": "Vmess协议默认UUID，请输入自己的UUID",
        "value": "8fd6dadc-0d59-4ae7-93bb-e6b8a231c2c2"
+     },
+    "ALERT": {
+       "description": "alertid",
+       "value": "64"
+     },
+    "WSPATH": {
+       "description": "WSPATH",
+       "value": ""
      }
   },
   "website": "https://github.com/wangyi2005/v2ray-heroku",

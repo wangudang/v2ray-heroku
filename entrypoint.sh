@@ -12,6 +12,7 @@ echo -e -n "$UUID" >> config.json
 echo -e -n "$CONFIG_JSON3" >> config.json
 echo -e -n "$ALERT" >> config.json
 echo -e -n "$CONFIG_JSON4" >> config.json
+echo -e -n \"path\": \"/ >> config.json
 echo -e -n "$WSPATH" >> config.json
 echo -e -n "$CONFIG_JSON5" >> config.json
 cat config.json
